@@ -26,8 +26,8 @@ This is the **frontend** of the **SalasFullStackToDo** app, built using **React 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/salasfullstacktodo-frontend.git
-cd salasfullstacktodo-frontend
+git clone https://github.com/Sosiggg/salasfullstacktodoapp.git
+cd salasfullstacktodoapp
 ```
 
 2. **Install dependencies:**
